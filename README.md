@@ -1,9 +1,13 @@
-# hybrid-cloud-storage
+# 💠Hybrid-Cloud-Storage Project
 
-Project Overview
+エンタープライズ向けハイブリッドクラウド・ストレージソリューション
+<br>
+Hybrid Cloud Storage Solution for Enterprise Environment
 
-Architecture
+## Project Overview
 
-Key Features and Specs
+## Architecture
 
-How to Run
+## Key Features and Specs
+
+## How to Run
